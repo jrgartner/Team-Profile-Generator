@@ -3,6 +3,9 @@
 Screenshot of the team profile cards.
 ![Picture of a question](./assets/homescreen.png "Team Profiles")
 
+Link to video on Google Drive:
+https://drive.google.com/file/d/1nO98XFGlqASsS3IyQ4rjMTpxCwmeyiAp/view?usp=sharing
+
 ## Description
 
 A team profile generator that uses Node.js and Javascript. This also has students test their code. The team cards will display on an HTML page using bootstrap CSS.
